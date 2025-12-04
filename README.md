@@ -1,8 +1,5 @@
 ## Olá, me chamo Ítalo Oliveira 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItalocOliveira&show_icons=true&commits_year=2025&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalocOliveira&theme=merko&langs_count=5&layout=compact&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
