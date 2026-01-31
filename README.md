@@ -1,4 +1,4 @@
-## Olá, me chamo Ítalo Oliveira 👋
+## Hi, I'm Italo Oliveira 👋
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
