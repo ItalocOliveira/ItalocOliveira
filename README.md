@@ -28,7 +28,7 @@
 <br/>
 
 Building tools that brings value.
-Node.js Backend Developer focused on TypeScript & NestJS. 
+Node.js Backend Developer focused on TypeScript & NestJS.
 </details>
 
 <br/>
